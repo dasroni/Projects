@@ -4,7 +4,6 @@
     Player can choose from 3 levels of difficulty, *Beginner* , *Intermediate*, *Expert*.
     This project is about making a simple MineSweeper game for single player.
     Player can choose from 3 levels of difficulty, _Beginner_ , *Intermediate*, *Expert*.
-
     Each difficulty levels increase the # of *bombs* contained in grid. There is also a
     *Custom* option for player where he/she can choose grid size and # of *bombs* hidden in grid. 
 
