@@ -1,0 +1,25 @@
+.root{
+	-fx-background-color: linear-gradient(#6495ed,#00bfff);
+	-fx-font-size : 14;
+	-fx-font-weight:bold
+	
+}
+
+.setting-font{
+	-fx-padding: 20;
+    -fx-spacing: 10;
+    -fx-font-size: 20;
+    -fx-Underline: true;
+}
+
+.text-field {
+	-fx-max-width: 40;
+	-fx-min-width: 100;
+    -fx-min-height: 20;
+    -fx-max-height: 100;
+}	
+
+.game-fx{
+	-fx-background-color: linear-gradient(#6495ed,#00bfff);
+	
+}
