@@ -1,1 +1,0 @@
-cmd_/home/ese333/ESE333/Proj4/Sub/part3/pubsub.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/ese333/ESE333/Proj4/Sub/part3/pubsub.ko /home/ese333/ESE333/Proj4/Sub/part3/pubsub.o /home/ese333/ESE333/Proj4/Sub/part3/pubsub.mod.o ;  true
